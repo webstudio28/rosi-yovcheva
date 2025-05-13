@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://andongoshev.github.io/rosi-iovcheva/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://andongoshev.github.io/rosi-iovcheva/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://andongoshev.github.io/rosi-iovcheva/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://andongoshev.github.io/rosi-iovcheva/thanks.html</loc>
+    <priority>0.64</priority>
+  </url>
+</urlset>
