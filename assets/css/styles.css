@@ -1268,3 +1268,15 @@ img {
     cursor: pointer;
     border-radius: 4px;
 }
+
+
+#made-by {
+    margin: 0 auto;
+    width: 12em;
+}
+
+@media (max-width: 575px) {
+    #made-by {
+        width: 8em;
+    }
+}
