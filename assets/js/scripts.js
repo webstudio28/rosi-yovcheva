@@ -74,7 +74,7 @@ if (faqAccordion) {
 
 // Create swallow icon
 const swallowIcon = document.createElement('img');
-swallowIcon.src = 'assets/images/swallow.png';  // Path to your downloaded image
+swallowIcon.src = 'assets/images/swallow2.png';  // Path to your downloaded image
 swallowIcon.alt = 'Swallow Icon';  // Accessibility text
 swallowIcon.className = 'swallow-icon';  // Add class for styling
 

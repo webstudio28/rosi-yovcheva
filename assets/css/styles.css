@@ -80,7 +80,7 @@ body.mobile-nav-active {
 }
 
 .btn-secondary:hover {
-    background-color: #e69529;
+    background-color: #357abd;
     transform: translateY(-2px);
 }
 
@@ -422,6 +422,19 @@ img {
 
 .about-image {
     flex: 1;
+}
+
+.about-hero-img {
+    width: 60%;
+    border-radius: 25px;
+    overflow: hidden;
+    aspect-ratio: 12/8;
+}
+
+.about-hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Stats Section */
@@ -946,6 +959,12 @@ img {
 
 @media (max-width: 575px) {
 
+    .about-hero-img {
+    width: 100% !important;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
     .section-padding {
         padding: 40px 0;
     }
@@ -1141,6 +1160,7 @@ img {
 
 /* Swallow Icon */
 .swallow-icon {
+    padding: 0.2em;
     opacity: 0.8;
     aspect-ratio: 1/1;
     width: 75px;
