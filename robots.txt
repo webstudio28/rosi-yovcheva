@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /message.html
 Disallow: /zapitvane-za-chas.html
+Disallow: /policy.html
 
-Sitemap: https://andongoshev.github.io/rosi-iovcheva/sitemap.xml
+Sitemap: https://www.rosi-yovcheva.com/sitemap.xml
