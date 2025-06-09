@@ -30,6 +30,20 @@
   gtag('config', 'G-KVC5HK2C72');
 </script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.querySelector('form');
+    if (form) {
+      form.addEventListener('submit', function () {
+        gtag('event', 'form_submit', {
+          event_category: 'contact',
+          event_label: 'Запитване за час'
+        });
+      });
+    }
+  });
+</script>
+
 <body>
 <header class="main-header">
     <div class="container">
